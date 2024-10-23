@@ -43,6 +43,10 @@ theme:
 nav:
   - Home:
       - index.md
+  - Problems:
+      - problems/index.md
+      - 0001-0100:
+        - 1. Two Sum: problems/0001-0100/0001-two-sum.md
 
 markdown_extensions:
   - meta
