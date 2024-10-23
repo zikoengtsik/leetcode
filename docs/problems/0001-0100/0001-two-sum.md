@@ -69,7 +69,7 @@ Traverse the array `nums`. If `target - nums[i]` is in the hash table, return th
 - Space complexity: $O(n)$
 
 ```go
-func twoSumIII(nums []int, target int) []int {
+func twoSumII(nums []int, target int) []int {
 	numMap := make(map[int]int)
 	for i, num := range nums {
 		if j, ok := numMap[target-num]; ok {
