@@ -48,6 +48,8 @@ nav:
       - 0001-0100:
         - 1. Two Sum: problems/0001-0100/0001-two-sum.md
         - 2. Add Two Numbers: problems/0001-0100/0002-add-two-numbers.md
+      - 0101-0200:
+        - 144. Binary Tree Preorder Traversal: problems/0101-0200/0144-binary-tree-preorder-traversal.md
 
 markdown_extensions:
   - meta
