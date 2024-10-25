@@ -51,6 +51,7 @@ nav:
         - 94. Binary Tree Inorder Traversal: problems/0001-0100/0094-binary-tree-inorder-traversal.md
       - 0101-0200:
         - 144. Binary Tree Preorder Traversal: problems/0101-0200/0144-binary-tree-preorder-traversal.md
+        - 145. Binary Tree Postorder Traversal: problems/0101-0200/0145-binary-tree-postorder-traversal.md
 
 markdown_extensions:
   - meta
